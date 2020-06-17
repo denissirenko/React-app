@@ -1,0 +1,12 @@
+.PostItem {
+    display: flex;
+    align-items: center;
+}
+.post_item_img {
+    margin-right: 20px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 1px solid #000;
+    object-fit: contain;
+}

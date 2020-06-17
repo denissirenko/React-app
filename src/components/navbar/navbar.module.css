@@ -1,0 +1,12 @@
+.app_menu {
+    width: 200px;
+}
+.app_menu {
+    padding: 10px 15px;
+}
+a {
+    color: #000;
+}
+a.active {
+    color: gold;
+}
